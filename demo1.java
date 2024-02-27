@@ -18,6 +18,7 @@ add(un);
 JLabel up=new JLabel("Enter Pass");
 up.setSize(350,70);
 up.setLocation(100,200);
+
 up.setFont(f);
 add(up);
 
